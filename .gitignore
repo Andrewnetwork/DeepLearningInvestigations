@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Data Dirs
+CarvanaAnalysis/data/
+MNIST/MNIST_data/
