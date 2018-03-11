@@ -103,3 +103,5 @@ ENV/
 # Data Dirs
 CarvanaAnalysis/data/
 MNIST/MNIST_data/
+ToxicityCompetition/data/test.csv
+ToxicityCompetition/data/train.csv
