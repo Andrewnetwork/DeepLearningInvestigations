@@ -105,3 +105,4 @@ CarvanaAnalysis/data/
 MNIST/MNIST_data/
 ToxicityCompetition/data/test.csv
 ToxicityCompetition/data/train.csv
+CatsAndDogs/data/
