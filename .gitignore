@@ -106,3 +106,5 @@ MNIST/MNIST_data/
 ToxicityCompetition/data/test.csv
 ToxicityCompetition/data/train.csv
 CatsAndDogs/data/
+GenerativeModels/images/
+GenerativeModels/train_images_mnist.csv
